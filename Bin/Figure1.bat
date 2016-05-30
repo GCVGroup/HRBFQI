@@ -1,0 +1,1 @@
+HRBFQI indoorscene_10.pwn indoorscene_10_mesh.obj 0 0 2.62 883469 0.056 1 0
