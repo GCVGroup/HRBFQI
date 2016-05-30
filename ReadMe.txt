@@ -41,7 +41,7 @@ webpage: github.com/GCVGroup/HRBFQI
 
 - After the compilation you may try the tool HRBFQI which is inside the ./bin directory:
 
-*Note* The data files should be located in ./bin/data directory.
+*Note* The data files should be located in ./bin/data directory. Before using the tool, please unpack all model files to the directory ./bin/data in advance.
 
 - In console mode, the command will be:
 
